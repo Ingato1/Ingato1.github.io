@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 ---
-# Required Jekyll front matter for Minimal Mistakes
+
 layout: home  # Uses the 'home' layout (default for landing pages)
 title: "Your Site Title"  # Appears in the browser tab and SEO
 author_profile: true  # Shows your avatar/profile if enabled in _config.yml
@@ -52,3 +52,12 @@ feature_row:  # Optional featured content grid (3 columns)
 3. Configure options in `_config.yml`.
 
 For help, check the [Minimal Mistakes docs](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
+## ✅ Consistent Quality with Minimal Mistakes
+
+I strive for precision and consistency in everything I do. Through careful attention to detail and a commitment to improvement, I ensure that my work is delivered with minimal errors.
+
+- ✔️ Focused and meticulous approach  
+- ✔️ Proven track record of accuracy  
+- ✔️ Constantly refining skills to maintain high standards
+
+> "Excellence is not an act, but a habit." — Aristotle
